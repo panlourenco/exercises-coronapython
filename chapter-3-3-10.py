@@ -8,5 +8,4 @@ del languages[0]
 print(languages)
 languages.insert(1, "Latin")
 print(languages)
-languages.append("Italian"
-)
+languages.append("Italian")
